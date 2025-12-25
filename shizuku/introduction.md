@@ -1,6 +1,8 @@
 # Introduction
 
-Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
+Shizuku can help normal apps uses system APIs directly with adb/root privileges with![Screenshot_2025-12-24-07-50-15-20](https://github.com/user-attachments/assets/9573e755-83f9-4c7d-a4bd-d0924e889d4f)
+![IMG_20251223_14113211](https://github.com/user-attachments/assets/3d7d3dc3-9827-4e9a-ada1-4ea5f0164fe6)
+ a Java process started with app_process.
 
 The name Shizuku comes from [a character](https://danbooru.donmai.us/posts/3553474).
 
